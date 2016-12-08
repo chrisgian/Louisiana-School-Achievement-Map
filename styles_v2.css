@@ -1,0 +1,106 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Poppins');
+
+
+h2, h4{
+font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+font-family: 'Open+Sans', sans-serif;
+
+}
+
+.btn {
+    color: #fff;
+    background-color: #4b6b86;
+    border-color: #2e6da4;
+}
+
+#logo {
+    margin-top: 10px;,
+    margin-bottom: 10px;
+    float: center;
+}
+
+
+#header_bar {
+    margin-top: 10px;,
+    margin-bottom: 10px;
+    float: center;
+}
+
+
+
+#splash{
+    background-color: white;
+    padding:20px;
+    border-radius:3px;
+    border:1px solid #ccc;
+}
+
+/* logo */
+        .skin-blue .main-header .logo {
+                              background-color: white;
+                              color: black;
+                              }
+
+        /* logo when hovered */
+        .skin-blue .main-header .logo:hover {
+                              background-color: white;
+                              color: black;
+                              }
+
+        /* navbar (rest of the header) */
+        .skin-blue .main-header .navbar {
+                              background-color: white;
+                              color: black;
+                              }        
+
+#sidebar {
+color:black;
+}
+        /* main sidebar */
+        .skin-blue .main-sidebar {
+                              color: black;
+                              background-color: white;
+
+                              }
+
+
+                        /* active selected tab in the sidebarmenu */
+        .skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+                              background-color: white;
+                              color: black;
+                              }
+
+        /* other links in the sidebarmenu */
+        .skin-blue .main-sidebar .sidebar .sidebar-menu a{
+                              background-color: white;
+                              color: black;
+                              }
+
+        /* other links in the sidebarmenu when hovered */
+         .skin-blue .main-sidebar .sidebar .sidebar-menu a:hover{
+                              background-color: white;
+                              color: black;
+                              }
+         toggle button when hovered  */                    
+         .skin-blue .main-header .navbar .sidebar-toggle:hover{
+                              background-color: black;
+                              color: black;
+                              }
+
+         .skin-blue .main-header .navbar .sidebar-toggle {
+                              color: black;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+background-color: white;
+color: black;
+}
+.content-wrapper,
+.right-side {
+  background-color: white;
+}
